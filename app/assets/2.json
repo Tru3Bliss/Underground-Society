@@ -1,0 +1,19 @@
+{
+  "name": "Black Crusade Nisar",
+  "symbol": "BKT",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3WqXSzkjcJiNo8FxN4qcEqL6Lis9GbYRnQpp9sGGfCnv",
+        "share": 100
+      }
+    ]
+  }
+}
